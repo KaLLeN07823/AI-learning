@@ -48,4 +48,4 @@
 # s4 = (r'''Hello,
 # Bob!''')
 # print(s1, s2, s3, s4, sep='\n')
-print('包含中文的str')
+# print('包含中文的str')
